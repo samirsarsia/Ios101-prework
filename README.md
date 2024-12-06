@@ -19,3 +19,5 @@ Features I like on that
 -Delete messages after a certain amount of time
 
 App Idea - an app that lets user customize the app to the way they want.
+
+Learned to use git and github using Terminal testing now
